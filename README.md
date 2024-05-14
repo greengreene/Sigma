@@ -5,10 +5,11 @@
 
 **Social Media:**
 
-[![GitHub](icons/github.png)](https://github.com/greengreene)
+[![GitHub](github.png)](https://github.com/greengreene)
 [![Twitter](icons/twitter.png)](https://twitter.com/hussainweb)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/ziyoda/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/sigmafemaleme?igsh=bW1tYjRzMGFvYmZm)
+
 <p align=left> <img src=https://komarev.com/ghpvc/?username=greengreene alt=greengreene /> </p>
 
 <h3>When I code, I rely on</h3>
