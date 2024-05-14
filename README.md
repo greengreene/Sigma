@@ -1,6 +1,4 @@
-<h1 align="left">
-<img src="https://api.deepai.org/job-view-file/f9ca75e9-1fc8-463e-8ba6-70b16b6edca6/outputs/output.jpg"/>
-</h1>
+![Header](./your-header-image-name.png)
 
 ## 👋 Hi there, I'm Sigma Female!
 
