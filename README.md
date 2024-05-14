@@ -21,7 +21,7 @@
 
  <h3>My most recent articles</h3>
 <ul>
-  <li><a href="https://www.w3schools.com/java/java_variables_reallife.asp"><i>Getting Started with JAVA: A Beginner’s Guide To Gain Base Knowladge in JAVA</i></a></li>
+  <li><a href="https://www.w3schools.com/java/java_variables_reallife.asp"><i>Getting Started with JAVA: A Beginner’s Guide To Gain Base Knowledge in JAVA</i></a></li>
   <li><a href="https://stackoverflow.co/"><i>Developing Work Progress With Teamwork</i></a></li>
   <li><a href="https://codingbat.com/java?message=Account+created"><i>The Ultimate Practice in JAVA</i></a></li>
 </ul>
