@@ -10,6 +10,9 @@
 [![Instagram](instagram.png)](https://www.instagram.com/sigmafemaleme?igsh=bW1tYjRzMGFvYmZm)
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=greengreene alt=greengreene /> </p>
+ </a>
+  <a href="https://github.com/dereknguyen269?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/greengreene?color=green&logo=github">
 
 <h3>When I code, I rely on</h3>
 <p>
