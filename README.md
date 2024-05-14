@@ -19,5 +19,12 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
  </p>
 
+ <h3>My most recent articles</h3>
+<ul>
+  <li><a href="https://www.w3schools.com/java/java_variables_reallife.asp"><i>Getting Started with JAVA: A Beginner’s Guide to Set Up My Base Knowladge in JAVA</i></a></li>
+  <li><a href="https://medium.com/@regondaakhil1509/pushing-your-first-react-app-to-github-a-step-by-step-guide-f7b592e67658"><i>Pushing Your First React App to GitHub: A Step-by-Step Guide</i></a></li>
+  <li><a href="https://codingbat.com/java?message=Account+created"><i>The Ultimate Practice in JAVA</i></a></li>
+</ul>
+
 [![Github stats](https://github-readme-stats.vercel.app/api?username=greengreene&show_icons=true&include_all_commits=true)](https://github.com/greengreene/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greengreene&layout=compact)](https://github.com/greengreene/github-readme-stats)
