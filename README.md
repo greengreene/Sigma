@@ -7,7 +7,7 @@
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...  
 
 ```ruby
-1. // I'm a passionate developer using GitHub 
+1. I'm a passionate developer using GitHub 
 2. to showcase my projects, collaborate with others, and 
 3. contribute to open-source communities. 
 4. Follow along to see my latest work 
