@@ -47,7 +47,7 @@
   <li><a href="https://codingbat.com/java?message=Account+created"><i>The Ultimate Practice in JAVA</i></a></li>
 </ul>
 
-<p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
+<p>If you think You can make me more Happier pick-me-up, why not treat me with a cup of coffee/tea? 🥺</p>
 <a href="https://buymeacoffee.com/sigmafemale" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <h3>My GitHub contributions summary</h3>
