@@ -25,6 +25,8 @@
 [![GitHub](github.png)](https://github.com/greengreene)
 [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/ziyoda/)
 [![Instagram](instagram.png)](https://www.instagram.com/sigmafemaleme?igsh=bW1tYjRzMGFvYmZm)
+<a href="https://discord.com/channels/1191968330895085618/1191968330895085620">
+    <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
 
  
 <h3>When I code, I rely on</h3>
