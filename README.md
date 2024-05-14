@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header]("https://github.com/greengreene/Sigma/blob/main/github-header-image.png"./your-header-image-name.png)
 
 ## 👋 Hi there, I'm Sigma Female!
 
