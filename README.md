@@ -4,10 +4,14 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=greengreene alt=greengreene />    <a href="https://github.com/greengreene?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/greengreene?color=green&logo=github">
 
- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+ ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...  
 
 ```ruby
-I'm a passionate developer using GitHub to showcase my projects, collaborate with others, and contribute to open-source communities. Follow along to see my latest work and join me in building innovative solutions!
+1. // I'm a passionate developer using GitHub 
+2. to showcase my projects, collaborate with others, and 
+3. contribute to open-source communities. 
+4. Follow along to see my latest work 
+5. and join me in building innovative solutions!
 }
 ```
 <p align='left'></p>
