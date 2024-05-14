@@ -4,7 +4,7 @@
 
 ## 👋 Hi there, I'm Sigma Female!
 ![](https://komarev.com/ghpvc/?greengreene=your-github-greengreene&label=PROFILE+VISITS)
-![](https://komarev.com/ghpvc/?greengreene=your_greengreene&color=blue).
+![](https://komarev.com/ghpvc/?greengreene=your_greengreene&color=blue)
 ![](https://komarev.com/ghpvc/?greengreene=your-github-greengreene&style=flat-square)
 ![](https://komarev.com/ghpvc/?greengreene=your-github-greengreene&abbreviated=true)
 
