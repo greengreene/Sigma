@@ -36,5 +36,4 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=greengreene&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=greengreene&show_icons=true&include_all_commits=true)](https://github.com/greengreene/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greengreene&layout=compact)](https://github.com/greengreene/github-readme-stats)
