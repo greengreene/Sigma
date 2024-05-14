@@ -3,8 +3,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-greenfreez@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:greenfreez@gmail.com)](mailto:greenfreez@gmail.com) [![Github Badge](https://img.shields.io/badge/-greengreene-grey?style=flat&logo=github&logoColor=white&link=https://github.com/greengreene/)](https://www.github.com/greengreene/) 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=greengreene alt=greengreene />    <a href="https://github.com/greengreene?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/greengreene?color=green&logo=github">
- 
-<p align='left'>I'm a passionate developer using GitHub to showcase my projects, collaborate with others, and contribute to open-source communities. Follow along to see my latest work and join me in building innovative solutions!</p>
+
+ ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```ruby
+I'm a passionate developer using GitHub to showcase my projects, collaborate with others, and contribute to open-source communities. Follow along to see my latest work and join me in building innovative solutions!
+}
+```
+<p align='left'></p>
 
 
 ## Some of my Github Stats
