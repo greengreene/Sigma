@@ -1,6 +1,9 @@
 ![Header](./github-header-image.png)
 
 [![Gmail Badge](https://img.shields.io/badge/-greenfreez@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:greenfreez@gmail.com)](mailto:greenfreez@gmail.com) [![Github Badge](https://img.shields.io/badge/-greengreene-grey?style=flat&logo=github&logoColor=white&link=https://github.com/greengreene/)](https://www.github.com/greengreene/) <p align='left'>I'm a passionate developer using GitHub to showcase my projects, collaborate with others, and contribute to open-source communities. Follow along to see my latest work and join me in building innovative solutions!</p>
+ <a href="https://github.com/dereknguyen269?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/greengreene?color=green&logo=github">
+
 ## Some of my Github Stats
 
 **Social Media:**
@@ -10,10 +13,7 @@
 [![Instagram](instagram.png)](https://www.instagram.com/sigmafemaleme?igsh=bW1tYjRzMGFvYmZm)
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=greengreene alt=greengreene /> </p>
- </a>
-  <a href="https://github.com/dereknguyen269?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/greengreene?color=green&logo=github">
-
+ 
 <h3>When I code, I rely on</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
